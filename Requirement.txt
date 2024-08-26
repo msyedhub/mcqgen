@@ -1,0 +1,9 @@
+openai
+langchain -Install in current env
+Install Streamlit
+Python -dotenv
+Install PyPDF2
+Create a new file setup.py so that you can install a local pkg
+Create a folder called src for source code
+Under src folder create __init__.py file
+Create a new folder under src called mcqgenerator and create a init file in that folder
